@@ -29,7 +29,7 @@
 
 ###
 
-<h5 align="left">I'm GUILHERME DOMINGUES from Brasil.<br><br><br>- 💼 Looking for Opportunities<br>- 📚 I'm currently learning CyberSecurity and AI</h5>
+<h5 align="left">I'm GUILHERME DOMINGUES from Brasil.<br><br><br>- 💼 Looking for Opportunities<br>- 📚 I'm currently learning CyberSecurity and AI ( MachineLearning )</h5>
 
 ###
 
